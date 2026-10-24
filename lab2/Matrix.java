@@ -48,6 +48,7 @@ public class Matrix {
         this.p = p;
         this.q = q;
         this.values = values;
+        
         firstRow = new int[size];
         columnStart = new int[size];
 
