@@ -10,6 +10,7 @@ public class MatrixPrint {
         printVariantSix(matrix);
     }
 
+
     private static void printMatrix(Matrix matrix) {
         for (int row = 0; row < matrix.size; row++) {
             for (int column = 0; column < matrix.size; column++) {
